@@ -113,7 +113,7 @@ Contains the custom dataset used for training and testing the weather prediction
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/Faizan-15/AI-Weather-Prediction-System.git
+git clone https://github.com/Faizan-15/AI_Weather_Prediction_System.git
 cd AI-Weather-Prediction-System
 ```
 
